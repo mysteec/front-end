@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: black;
+    padding: 10px;
+    
+}
+
+#logo{
+    padding: 10px;
+}
+
+#right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#home{
+    padding: 10px;
+}
+
+#bio{
+    padding: 10px;
+}
+
+#lunchbreak{
+    padding: 10px;
+}
+
+#music{
+    padding: 10px;
+}
+
+#visual{
+    padding: 10px;
+}
+
+#store{
+    padding: 10px;
+}
+
+#booking{
+    padding: 10px;
+}
